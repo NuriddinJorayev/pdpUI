@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       home: Home(),
       routes: {
         Home().id : (context) => Home(),
+
       },
     );
   }
